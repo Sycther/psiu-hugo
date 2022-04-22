@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.brother-img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    max-height: 25rem;
+}
+
+.award-img {
+    width: 100%;
+    height: 15rem;
+    object-fit: contain;
+}
+
+.navbar-brand {
+    width: 10rem;
+    font-size: x-large;
+}
+
+#cover-section-alumni {
+    background-image: url(/banners/alumni.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 65rem;
+    background-position: 50% 30%;
+}
+
+.overlay-img-dark {
+    filter: brightness(40%);
+}
+
+.overlay-dark {
+    background-color: rgba(black, .4);
+}
+
+.visible {
+    filter: brightness(100%);
+}
+
+.invisible {
+    filter: brightness(0%);
+}

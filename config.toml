@@ -1,0 +1,34 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'psiu-warrior'
+
+staticDir = ['static']
+[[menu.main]]
+name = "Home"
+identifier = "index"
+weight = 200
+url = "/"
+
+[[menu.main]]
+name = "Brothers"
+identifier = "brothers"
+weight = 100
+url = "/brothers/"
+
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 100
+url = "/about/"
+
+[[menu.main]]
+name="events"
+identifier = "events"
+weight = 100
+url = "/events/"
+
+[[menu.main]]
+name="National"
+identifier = "nationals"
+url = "https://www.psiu.org"
