@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Psi Upsilon</title>
-    <link>https://sycther.github.io/page/</link>
+    <link>https://sycther.github.io/psiu-hugo/page/</link>
     <description>Recent content in Pages on Psi Upsilon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sycther.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sycther.github.io/psiu-hugo/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>https://sycther.github.io/about/</link>
+      <link>https://sycther.github.io/psiu-hugo/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sycther.github.io/about/</guid>
+      <guid>https://sycther.github.io/psiu-hugo/about/</guid>
       <description>Get In Touch!  Email undergrads.psiu.ao@gmail.com
 Address 261 MLK Blvd Newark NJ, 07102 Psi Upsilon Interest Form Interest Form
       </description>
@@ -19,10 +19,10 @@ Address 261 MLK Blvd Newark NJ, 07102 Psi Upsilon Interest Form Interest Form
     
     <item>
       <title>Brothers</title>
-      <link>https://sycther.github.io/brothers/</link>
+      <link>https://sycther.github.io/psiu-hugo/brothers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sycther.github.io/brothers/</guid>
+      <guid>https://sycther.github.io/psiu-hugo/brothers/</guid>
       <description>Meet the brothers of Psi Upsilon at NJIT!  I am the current President of the Alpha Omicron chapter. I am a junior chemical engineering student pursuing co-ops in the materials manufacturing industry as well as research in porous materials. I enjoy computer science and listening to orchestral music. Cucumbers &amp;gt; Pickles
  Vinny Tews President Chemical Engineering, 2023 Minor in Computer Science
     I am a sophomore at NJIT and currently the head of Community Service and part of the glorious Alpha Phi pledge class.</description>
@@ -30,10 +30,10 @@ Address 261 MLK Blvd Newark NJ, 07102 Psi Upsilon Interest Form Interest Form
     
     <item>
       <title>Events</title>
-      <link>https://sycther.github.io/events/</link>
+      <link>https://sycther.github.io/psiu-hugo/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sycther.github.io/events/</guid>
+      <guid>https://sycther.github.io/psiu-hugo/events/</guid>
       <description>No Events We dont have any upcoming events at the moment
  </description>
     </item>
