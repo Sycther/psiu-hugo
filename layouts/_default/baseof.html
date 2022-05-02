@@ -5,7 +5,7 @@
 <body>
     {{ partial "navbar.html"}} {{block "header" . }} {{ partial "header.html" }} {{ end }}
     <div id="content">
-        {{define "main"}}{{.Content}}{{end}}
+        {{block "main" .}}{{.Content}}{{end}}
     </div>
     {{- partial "footer.html" . -}}
 </body>

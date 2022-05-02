@@ -1,6 +1,5 @@
 languageCode: en-us
 title: Psi Upsilon
-theme: psiu-warrior
 
 permalinks:
   page: /:slug/

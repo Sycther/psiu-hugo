@@ -6,12 +6,15 @@
                     <h3>Get In Touch!</h3>
                 </div>
                 <div class="card-body m-2 p-2">
-                    <h5>Email</h5>
-                    <p>undergrads.psiu.ao@gmail.com</p>
-                    <h5>Address</h5>
-                    <p>261 Martin Luther King Jr. Blvd<br>Newark, Nj 07102</p>
-                    <h5>Psi Upsilon Interest Form</h5>
-                    <a href="https://forms.gle/3bExK8zauXXwVhF97">Interest Form</a>
+                    {{ range $.Page.Params.contact }}
+                    <h5>{{.title}}</h5>
+                    {{if .link}}
+                    <a href="{{.link}}">
+                        <p>{{.desc}}</p>
+                    </a>
+                    {{ else }}
+                    <p>{{.desc}}</p>
+                    {{end }} {{end}}
                 </div>
             </div>
         </div>
