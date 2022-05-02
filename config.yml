@@ -1,7 +1,6 @@
 languageCode: en-us
 title: Psi Upsilon
 
-theme: papermod
 
 permalinks:
   page: /:slug/
