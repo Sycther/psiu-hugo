@@ -31,5 +31,4 @@ Before you can start changing anything you must understand how this all works. A
 
 ### ***Actual Configuration***
 
-Hugo creates the final site by combining the content, which lies under the content folder, with their corresponding templates, which lies under the templates folder.   
-the 
+Hugo creates the final site by combining the content, which lies under the content folder, with their corresponding templates, which lies under the templates folder (Most templates are under the theme labeled 'pisu-warrior').  
