@@ -1,7 +1,7 @@
 languageCode: en-us
 title: Psi Upsilon
 
-baseURL: https://sycther.github.io/psiu-hugo/
+baseURL: https://www.psiupsilonao.org/
 
 permalinks:
   page: /:slug/
